@@ -4,7 +4,6 @@ import java.io.*;
 
 /**
  * Hello world!
- *
  */
 public class App
 
@@ -33,4 +32,4 @@ public class App
         }
     }
 
- 
+
